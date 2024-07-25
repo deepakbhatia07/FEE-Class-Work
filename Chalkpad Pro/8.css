@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   
+    padding: 50px;
+    width: 200px;
+    /* <!--border: 5px solid rgb(19, 19, 19);--> */
+    margin-left: 960px;
+    color: auto;
+    background-color: #cccccc;
+    margin-top: 100px;
+    background-image: url("Chitkara_University_pic.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 42cm;
+    background-color: #cccccc;
+}
+
+head{
+    background-color: #cccccc;
+}
+img{
+    margin-bottom:20px;
+    background-color:auto;
+}
+button{
+    margin-left: 5px;
+    height: 30px;
+    width: 150px;
+    background-color: red;
+    color: white;
+}
+.div hr{
+    max-width: 100px;
+    color: red;
+}
+.logo{
+    float: right;
+}
